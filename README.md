@@ -1,4 +1,4 @@
-## Hello There!, This is my GitHub profile. I have attached some of my profile in respective sites below for your reference. The repositories consits of my projects, leetcode/ neetcode problems, course assignments.. and so on.
+## Hello There!, This is my GitHub profile. I have attached some of my profile in respective sites below for your reference. The repositories consists of my projects, leetcode/ neetcode problems, course assignments.. and so on.
 
 <p align="center">
   <a href="https://leetcode.com/u/Annamalai02/" style="text-decoration: none;">
