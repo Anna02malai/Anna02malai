@@ -1,4 +1,9 @@
-## Hello There!, This is my GitHub profile. I have attached some of my profile in respective sites below for your reference. The repositories consists of my projects, leetcode/ neetcode problems, course assignments.. and so on.
+Welcome! I am Annamalai M.
+
+I am a graduate student from the <a href="https://www.udel.edu/" style="text-decoration: none;"> The Robotics Institute @ UD </a>, where I worked on precision Agriculture robots. I was in the M.Sc. Robotics program, Batch of 2025. My program's cornerstone was Independent study capstone projects, which I was fortunate to have with Prof. Yin Bao, Digital Ag lab and Prof. Herbert Tanner, Cooperative Robotics Lab. I used the Rivulet 2.0 robot to localize and map the environment using SLAM and navigate itself on the gantry system (Centre-pivot Irrigation System). Through my life’s work, I want to advance robotic capabilities in unstructured environments with three focuses: motion planning, path planning and optimization.
+
+I graduated from Thiagarajar College of Engg in 2021, attaining a Bachelor's (with Distinction) in Mechatronics Engineering. During my undergraduate, I was fortunate to work under the guidance of wonderful mentors. 
+Here's how to reach me:
 
 <p align="center">
   <a href="https://leetcode.com/u/Annamalai02/" style="text-decoration: none;">
