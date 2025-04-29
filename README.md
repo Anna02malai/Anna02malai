@@ -10,6 +10,10 @@ Here's how to reach me:
   <a href="https://leetcode.com/u/Annamalai02/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
   </a>
+  <a href="brothermountain99@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  
   <a href="https://www.linkedin.com/in/anna2malai-m/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=inspire&logoColor=white">
   </a>
