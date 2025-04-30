@@ -10,6 +10,7 @@ I hold a Bachelor's degree in Mechatronics Engineering (with Distinction) from <
 <br>
 You’ll find my projects and solved LeetCode problems in the repositories below.
 <br>
+<br>
 Here's how to reach me:
 <br>
 <p align="center">
