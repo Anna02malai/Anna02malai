@@ -1,11 +1,17 @@
-Welcome! I am Annamalai M.
+Welcome! I’m Annamalai M.
 
-I am a graduate student from the <a href="https://www.udel.edu/" style="text-decoration: none;">  University of Delaware (UD) </a>, where I worked on precision Agriculture robots. I am in the <a href="https://me.udel.edu/academics/graduate/msr/" style="text-decoration: none;"> M.Sc. Robotics program </a>, Batch of 2025. My program's cornerstone was the Independent study capstone projects, which I was fortunate to have it with <a href="https://me.udel.edu/faculty/yin-bao/" style="text-decoration: none;"> Prof. Yin Bao </a>, Digital Ag lab. I used the Rivulet 2.0 robot to localize and map the environment using SLAM and navigate on the gantry system (Centre-pivot Irrigation System). I led and represented the University of Delaware's team in <a href="https://www.farmroboticschallenge.ai/" style="text-decoration: none;"> Farm Robotics Challenge 2025 </a> where  i worked on Autonomous Navigation of the Farm_ng Amiga robot. I also had a oppurtunity to do a remote internship with the TRIC robotics company with <a href="https://me.udel.edu/faculty/herbert-tanner/" style="text-decoration: none;"> Prof. Herbert Tanner </a>, CARS Lab, as my advisor. I worked on a NP-hard problem to path plan for the company's robot for the given constrained agriculture field. Through my life’s work, I want to advance robotic capabilities in unstructured environments with three focuses: motion planning, path planning and optimization.
+I am a graduate student in the <a href="https://me.udel.edu/academics/graduate/msr/" style="text-decoration: none;"> M.Sc. Robotics program </a> (Class of 2025) at the <a href="https://www.udel.edu/" style="text-decoration: none;"> University of Delaware </a>, where I focused on precision agriculture robots. The cornerstone of my program was an independent study capstone project under <a href="https://me.udel.edu/faculty/yin-bao/" style="text-decoration: none;"> Prof. Yin Bao </a> in the Digital Agriculture Lab. I worked with the Rivulet 2.0 robot, implementing SLAM-based localization and navigation on a gantry system (center-pivot irrigation).
 
-I graduated from Thiagarajar College of Engg in 2021, attaining a Bachelor's (with Distinction) in Mechatronics Engineering. During my undergraduate, I was fortunate to work under the guidance of wonderful mentors. 
-<br> <br>
+I led and represented the University of Delaware’s team in the <a href="https://www.farmroboticschallenge.ai/" style="text-decoration: none;"> Farm Robotics Challenge 2025 </a>, where I worked on autonomous navigation for the Farm-ng Amiga robot. I also had the opportunity to intern remotely with TRIC Robotics, advised by <a href="https://me.udel.edu/faculty/herbert-tanner/" style="text-decoration: none;"> Prof. Herbert Tanner </a> (CARS Lab), where I tackled an NP-hard path planning problem for the company’s robot in constrained agricultural fields.
+
+Through my work, I aim to advance robotic capabilities in unstructured environments, focusing on motion planning, path planning, and optimization.
+
+I hold a Bachelor's degree in Mechatronics Engineering (with Distinction) from <a href = "https://tce.edu/academics/departments/mechatronics" style="text-decoration: none;"> Thiagarajar College of Engineering </a>, class of 2021. During my undergraduate studies, I had the privilege of working under exceptional mentors.
+<br>
+You’ll find my projects and solved LeetCode problems in the repositories below.
+<br>
 Here's how to reach me:
-
+<br>
 <p align="center">
   <a href="https://leetcode.com/u/Annamalai02/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
