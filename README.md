@@ -27,7 +27,7 @@ Here's how to reach me:
 <!--   <a href="https://www.hackerrank.com/profile/brothermountain1" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/HackerRank-1C2432?style=for-the-badge&logo=hackerrank&logoColor=green">
   </a> -->
-  <a href="https://www.figma.com/proto/FRUYvQWWWXyfi9sJ4wh1dh/Annamalai-portfolio?node-id=1-2&t=bOTJBLaoLe2wnCyk-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2" style="text-decoration: none;">
+  <a href="https://anna02malai.github.io/" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Personal_Website-EC644B?style=for-the-badge&logo=figma&logoColor=black">
   </a>
 </p>
